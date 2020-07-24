@@ -41,4 +41,5 @@ def rm(num=1):
 
 
 if __name__ == '__main__':
-    rm(3)
+    rm(5)
+
