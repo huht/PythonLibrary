@@ -39,4 +39,6 @@ def rm(num=1):
         printBili(soup)
         printBaidu(soup)
 
-rm(3)
+
+if __name__ == '__main__':
+    rm(3)
